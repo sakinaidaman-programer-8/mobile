@@ -242,7 +242,7 @@ class _HomePageState extends State<HomePage> {
                                 ),
                               );
                             }
-                             if (item["title"] == "JKN") {
+                            if (item["title"] == "JKN") {
                               Navigator.push(
                                 context,
                                 MaterialPageRoute(
